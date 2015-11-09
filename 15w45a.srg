@@ -1,0 +1,25 @@
+# The following mappings are for Minecraft snapshot 15w54a.
+PK: . net/minecraft/src
+CL: a net/minecraft/util/EnumChatFormatting
+FD: a/a net/minecraft/util/EnumChatFormatting/BLACK
+FD: a/b net/minecraft/util/EnumChatFormatting/DARK_BLUE
+FD: a/c net/minecraft/util/EnumChatFormatting/DARK_GREEN
+FD: a/d net/minecraft/util/EnumChatFormatting/DARK_AQUA
+FD: a/e net/minecraft/util/EnumChatFormatting/DARK_RED
+FD: a/f net/minecraft/util/EnumChatFormatting/DARK_PURPLE
+FD: a/g net/minecraft/util/EnumChatFormatting/GOLD
+FD: a/h net/minecraft/util/EnumChatFormatting/GRAY
+FD: a/i net/minecraft/util/EnumChatFormatting/DARK_GRAY
+FD: a/j net/minecraft/util/EnumChatFormatting/BLUE
+FD: a/k net/minecraft/util/EnumChatFormatting/GREEN
+FD: a/l net/minecraft/util/EnumChatFormatting/AQUA
+FD: a/m net/minecraft/util/EnumChatFormatting/RED
+FD: a/n net/minecraft/util/EnumChatFormatting/LIGHT_PURPLE
+FD: a/o net/minecraft/util/EnumChatFormatting/YELLOW
+FD: a/p net/minecraft/util/EnumChatFormatting/WHITE
+FD: a/q net/minecraft/util/EnumChatFormatting/OBFUSCATED
+FD: a/r net/minecraft/util/EnumChatFormatting/BOLD
+FD: a/s net/minecraft/util/EnumChatFormatting/STRIKETHROUGH
+FD: a/t net/minecraft/util/EnumChatFormatting/UNDERLINE
+FD: a/u net/minecraft/util/EnumChatFormatting/ITALIC
+FD: a/v net/minecraft/util/EnumChatFormatting/RESET
